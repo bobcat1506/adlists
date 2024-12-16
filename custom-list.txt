@@ -1,19 +1,32 @@
 !
 ! Title: bobcat1506 DNS filter
 !
+! https://adguard-dns.io/kb/general/dns-filtering-syntax/
+!
+
+! DoH
+||akadns.net^
+||apple-dns.net^
+||azure-dns.com^
+||boltdns.net^
+||cloudflare-dns.com^
+
+! blacklist
+||app-measurement.com^$important
+||captive.apple.com^$important
+||connectivity.smartthings.com^$important
+||edge.microsoft.com^$important
+||entry.io^$important
 ||events.data.microsoft.com^$important
+||firebaselogging-pa.googleapis.com^$important
+||imrworldwide.com
+||metcon.hulu.com^$important
+||userpresence.xboxlive.com^$important
+||vtwenty.com^$important
 ||wirelessdevicestats.googleapis.com^$important
 ||www.gstatic.com^$important
-||userpresence.xboxlive.com^$important
-||edge.microsoft.com^$important
-||firebaselogging-pa.googleapis.com^$important
-||captive.apple.com^$important
-||app-measurement.com^$important
-@@||viziosmartcast.app.hulu.com^$important
+
+! whitelist
 @@||auth.hulu.com^$important
 @@||home.hulu.com^$important
-||metcon.hulu.com^$important
-||imrworldwide.com
-||vtwenty.com^$important
-||connectivity.smartthings.com^$important
-||entry.io^$important
+@@||viziosmartcast.app.hulu.com^$important
