@@ -1,8 +1,6 @@
 !
 ! Title: bobcat1506 DNS filter
 !
-! https://adguard-dns.io/kb/general/dns-filtering-syntax/
-!
 
 ! DoH
 ||akadns.net^
@@ -11,7 +9,7 @@
 ||boltdns.net^
 ||cloudflare-dns.com^
 
-! blacklist
+! sites
 ||app-measurement.com^$important
 ||captive.apple.com^$important
 ||connectivity.smartthings.com^$important
@@ -25,8 +23,3 @@
 ||vtwenty.com^$important
 ||wirelessdevicestats.googleapis.com^$important
 ||www.gstatic.com^$important
-
-! whitelist
-@@||auth.hulu.com^$important
-@@||home.hulu.com^$important
-@@||viziosmartcast.app.hulu.com^$important

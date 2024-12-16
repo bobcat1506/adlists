@@ -1,0 +1,7 @@
+!
+! Title: bobcat1506 DNS filter
+!
+
+@@||auth.hulu.com^$important
+@@||home.hulu.com^$important
+@@||viziosmartcast.app.hulu.com^$important
