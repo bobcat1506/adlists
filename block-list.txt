@@ -13,6 +13,7 @@
 ||app-measurement.com^$important
 ||captive.apple.com^$important
 ||connectivity.smartthings.com^$important
+||doppler.hulu.com^$important
 ||edge.microsoft.com^$important
 ||entry.io^$important
 ||events.data.microsoft.com^$important
@@ -22,4 +23,3 @@
 ||userpresence.xboxlive.com^$important
 ||vtwenty.com^$important
 ||wirelessdevicestats.googleapis.com^$important
-||www.gstatic.com^$important

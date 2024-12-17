@@ -5,3 +5,9 @@
 @@||auth.hulu.com^$important
 @@||home.hulu.com^$important
 @@||viziosmartcast.app.hulu.com^$important
+@@||login.microsoftonline.com^$important
+@@||odc.officeapps.live.com^$important
+@@||login.live.com^$important
+@@||roaming.officeapps.live.com^$important
+@@||docs.live.net^$important
+@@||thumper1748.servebeer.com^$important
