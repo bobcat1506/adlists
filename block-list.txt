@@ -8,6 +8,7 @@
 ||azure-dns.com^
 ||boltdns.net^
 ||cloudflare-dns.com^
+||dns.nextdns.io^
 
 ! sites
 ||app-measurement.com^$important

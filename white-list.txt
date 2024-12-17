@@ -4,28 +4,29 @@
 ! most of these need white listed because they
 ! have akadns in the CNAME
 
+@@||api.onedrive.com^$important
 @@||auth.hulu.com^$important
-@@||cl4.apple.com^important
-@@||cma.itunes.apple.com^important
+@@||cl4.apple.com^$important
+@@||cma.itunes.apple.com^$important
 @@||docs.live.net^$important
-@@||gateway.icloud.com^important
+@@||gateway.icloud.com^$important
 @@||home.hulu.com^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
 @@||manifesto.hulustream.com^$important
-@@||mask-h2.icloud.com^important
-@@||mediaservices.cdn-apple.com^important
-@@||mesu.apple.com^important
+@@||mask-h2.icloud.com^$important
+@@||mediaservices.cdn-apple.com^$important
+@@||mesu.apple.com^$important
 @@||ocsp2.apple.com^$important
 @@||odc.officeapps.live.com^$important
-@@||p43-imap.mail.me.com^important
+@@||p43-imap.mail.me.com^$important
 @@||res.cdn.office.net^$important
 @@||roaming.officeapps.live.com^$important
-@@||seed.siri.apple.com^important
+@@||seed.siri.apple.com^$important
 @@||storage.live.com^$important
 @@||thumper1748.servebeer.com^$important
 @@||viziosmartcast.app.hulu.com^$important
 @@||vod.delivery.roku.com^$important
-@@||wireguard.com^important
+@@||wireguard.com^$important
 
 
