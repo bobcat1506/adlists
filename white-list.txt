@@ -9,6 +9,7 @@
 @@||cl4.apple.com^$important
 @@||cma.itunes.apple.com^$important
 @@||docs.live.net^$important
+@@||dynupdate.no-ip.com^$important
 @@||gateway.icloud.com^$important
 @@||home.hulu.com^$important
 @@||login.live.com^$important
@@ -30,5 +31,4 @@
 @@||vod.delivery.roku.com^$important
 @@||wireguard.com^$important
 @@||xsts.auth.xboxlive.com^$important
-
 
