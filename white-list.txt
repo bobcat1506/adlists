@@ -1,6 +1,8 @@
 !
 ! Title: bobcat1506 DNS filter
 !
+! most of these need white listed because they
+! have akadns in the CNAME
 
 @@||auth.hulu.com^$important
 @@||home.hulu.com^$important
@@ -11,3 +13,6 @@
 @@||roaming.officeapps.live.com^$important
 @@||docs.live.net^$important
 @@||thumper1748.servebeer.com^$important
+@@||manifesto.hulustream.com^$important
+@@||vod.delivery.roku.com^$important
+
