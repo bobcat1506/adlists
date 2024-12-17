@@ -6,20 +6,27 @@
 
 @@||api.onedrive.com^$important
 @@||auth.hulu.com^$important
+@@||bag.itunes.apple.com^$important
+@@||cl3.apple.com^$important
 @@||cl4.apple.com^$important
 @@||cma.itunes.apple.com^$important
 @@||docs.live.net^$important
 @@||dynupdate.no-ip.com^$important
 @@||gateway.icloud.com^$important
+@@||gs-loc.apple.com^$important
+@@||gsp9-ssl.apple.com^$important
 @@||home.hulu.com^$important
+@@||iphone-ld.apple.com^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
 @@||manifesto.hulustream.com^$important
 @@||mask-h2.icloud.com^$important
 @@||mediaservices.cdn-apple.com^$important
 @@||mesu.apple.com^$important
+@@||mrodevicemgr.officeapps.live.com^$important
 @@||ocsp2.apple.com^$important
 @@||odc.officeapps.live.com^$important
+@@||officeclient.microsoft.com^$important
 @@||p43-imap.mail.me.com^$important
 @@||res.cdn.office.net^$important
 @@||roaming.officeapps.live.com^$important

@@ -3,7 +3,7 @@
 !
 
 ! DoH
-||akadns.net^
+! ||akadns.net^ blocking this breaks a ton of stuff
 ||apple-dns.net^
 ||azure-dns.com^
 ||boltdns.net^
