@@ -23,10 +23,12 @@
 @@||res.cdn.office.net^$important
 @@||roaming.officeapps.live.com^$important
 @@||seed.siri.apple.com^$important
+@@||skydrivesync.policies.live.net^$important
 @@||storage.live.com^$important
 @@||thumper1748.servebeer.com^$important
 @@||viziosmartcast.app.hulu.com^$important
 @@||vod.delivery.roku.com^$important
 @@||wireguard.com^$important
+@@||xsts.auth.xboxlive.com^$important
 
 
