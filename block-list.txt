@@ -2,13 +2,16 @@
 ! Title: bobcat1506 DNS filter
 !
 
+! Roku Channel
+! ||vod.delivery.roku.com^
+
 ! DoH
 ! ||akadns.net^ blocking this breaks a ton of stuff
-||apple-dns.net^
-||azure-dns.com^
-||boltdns.net^
-||cloudflare-dns.com^
-||dns.nextdns.io^
+! ||apple-dns.net^
+! ||azure-dns.com^
+! ||boltdns.net^
+! ||cloudflare-dns.com^
+! ||dns.nextdns.io^
 
 ! sites
 ||app-measurement.com^$important
@@ -18,7 +21,7 @@
 ||entry.io^$important
 ||events.data.microsoft.com^$important
 ||firebaselogging-pa.googleapis.com^$important
-||imrworldwide.com
+! ||imrworldwide.com
 ||sentry.io
 ||metcon.hulu.com^$important
 ||us-odc.samsungapps.com

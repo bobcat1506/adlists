@@ -1,6 +1,0 @@
-!
-! Bobcat1506 Services Block List
-!
-
-! Roku Channel
-! ||vod.delivery.roku.com^
