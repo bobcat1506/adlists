@@ -1,12 +1,12 @@
 !
 ! Title: bobcat1506 DNS filter
 !
-! most of these need white listed because they
-! have akadns in the CNAME
+! most of these need white listed because they have akadns in the CNAME
 
 @@||api.onedrive.com^$important
 @@||auth.hulu.com^$important
 @@||bag.itunes.apple.com^$important
+@@||cleanbrowsing.org^$important
 @@||cl3.apple.com^$important
 @@||cl4.apple.com^$important
 @@||cma.itunes.apple.com^$important

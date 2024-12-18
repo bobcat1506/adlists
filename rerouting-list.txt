@@ -1,0 +1,30 @@
+!
+! bobcat1506 Rerouting list
+!
+! ||malicioussite.com$dnsrewrite=127.0.0.1 
+
+! https://cleanbrowsing.org/help/docs/enforce-youtube-child-restrict-mode/
+! YouTube’s Restricted Mode works by redirecting traffic to specific YouTube servers. 
+! By re-mapping YouTube domains to Google’s restricted CNAME addresses, you can enforce these 
+! filters across your network.
+
+! restrictmoderate.youtube.com → IP: 216.239.38.119 - blocks videos with potential violence, sexuality, or explicit content. It also disables comments.
+! restrict.youtube.com →         IP: 216.239.38.120 - stricter filter, Recommended for children under 12.
+
+||www.youtube.com$dnsrewrite=216.239.38.120
+||m.youtube.com$dnsrewrite=216.239.38.120
+||youtubei.googleapis.com$dnsrewrite=216.239.38.120
+||youtube.googleapis.com$dnsrewrite=216.239.38.120
+||www.youtube-nocookie.com$dnsrewrite=216.239.38.120
+
+!
+! DoH Rewrites
+!
+
+||apple-dns.net$dnsrewrite=192.168.86.100
+||akadns.net$dnsrewrite=192.168.86.100
+||azure-dns.net$dnsrewrite=192.168.86.100
+||boltdns.net$dnsrewrite=192.168.86.100
+||cloudfare-dns.com$dnsrewrite=192.168.86.100
+||dns.nextdns.io$dnsrewrite=192.168.86.100
+||yahoodns.net$dnsrewrite=192.168.86.100
