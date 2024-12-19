@@ -23,6 +23,6 @@
 ||akadns.net$dnsrewrite=192.168.86.100
 ||azure-dns.net$dnsrewrite=192.168.86.100
 ||boltdns.net$dnsrewrite=192.168.86.100
-||cloudfare-dns.com$dnsrewrite=192.168.86.100
+||cloudflare-dns.com$dnsrewrite=192.168.86.100
 ||dns.nextdns.io$dnsrewrite=192.168.86.100
 ||yahoodns.net$dnsrewrite=192.168.86.100
