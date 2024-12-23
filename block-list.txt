@@ -18,10 +18,11 @@
 ||captive.apple.com^$important
 ||connectivity.smartthings.com^$important
 ||doppler.hulu.com^$important
+||dynatrace.ford.com^
 ||entry.io^$important
 ||events.data.microsoft.com^$important
 ||firebaselogging-pa.googleapis.com^$important
-! ||imrworldwide.com
+||imrworldwide.com
 ||sentry.io
 ||metcon.hulu.com^$important
 ||us-odc.samsungapps.com

@@ -4,6 +4,8 @@
 
 @@||dynupdate.no-ip.com^$important
 @@||thumper1748.servebeer.com^$important
+@@||login.live.com^$important
+@@||login.microsoftonline.com^$important
 
 
 
@@ -22,8 +24,6 @@
 !@@||gsp9-ssl.apple.com^$important
 !@@||home.hulu.com^$important
 !@@||iphone-ld.apple.com^$important
-!@@||login.live.com^$important
-!@@||login.microsoftonline.com^$important
 !@@||manifesto.hulustream.com^$important
 !@@||mask-h2.icloud.com^$important
 !@@||mediaservices.cdn-apple.com^$important
