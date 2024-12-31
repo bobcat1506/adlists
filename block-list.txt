@@ -20,10 +20,13 @@
 ||doppler.hulu.com^$important
 ||dynatrace.ford.com^
 ||entry.io^$important
+||events.ads.vungle.com^$important
 ||events.data.microsoft.com^$important
+||firebaselogging.googleapis.com^$important
 ||firebaselogging-pa.googleapis.com^$important
 ||imrworldwide.com
 ||sentry.io
+||solitaireevents.microsoftcasualgames.com^$important
 ||metcon.hulu.com^$important
 ||us-odc.samsungapps.com
 ||userpresence.xboxlive.com^$important

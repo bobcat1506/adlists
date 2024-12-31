@@ -4,6 +4,8 @@
 ! Syntax
 ! ||malicioussite.com$dnsrewrite=127.0.0.1 
 
+||thumper1748.servebeer.com$dnsrewrite=192.168.86.100
+
 ! https://cleanbrowsing.org/help/docs/enforce-youtube-child-restrict-mode/
 ! YouTube’s Restricted Mode works by redirecting traffic to specific YouTube servers. 
 ! restrictmoderate.youtube.com → IP: 216.239.38.119 - blocks videos with potential violence, sexuality, or explicit content. It also disables comments.

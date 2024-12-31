@@ -3,7 +3,7 @@
 !
 
 @@||dynupdate.no-ip.com^$important
-@@||thumper1748.servebeer.com^$important
+!@@||thumper1748.servebeer.com^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
 
