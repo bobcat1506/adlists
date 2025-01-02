@@ -11,11 +11,11 @@
 ! restrictmoderate.youtube.com → IP: 216.239.38.119 - blocks videos with potential violence, sexuality, or explicit content. It also disables comments.
 ! restrict.youtube.com →         IP: 216.239.38.120 - stricter filter, recommended for children under 12.
 
-||www.youtube.com$dnsrewrite=216.239.38.120
-||m.youtube.com$dnsrewrite=216.239.38.120
-||youtubei.googleapis.com$dnsrewrite=216.239.38.120
-||youtube.googleapis.com$dnsrewrite=216.239.38.120
-||www.youtube-nocookie.com$dnsrewrite=216.239.38.120
+||www.youtube.com$dnsrewrite=216.239.38.119
+||m.youtube.com$dnsrewrite=216.239.38.119
+||youtubei.googleapis.com$dnsrewrite=216.239.38.119
+||youtube.googleapis.com$dnsrewrite=216.239.38.119
+||www.youtube-nocookie.com$dnsrewrite=216.239.38.119
 
 !
 ! DoH Rewrites
