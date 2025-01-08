@@ -6,7 +6,7 @@
 !@@||thumper1748.servebeer.com^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
-
+@@||wireguard.com^important
 
 
 ! need white listed because they have akadns in the CNAME
