@@ -2,6 +2,7 @@
 ! Title: bobcat1506 DNS filter
 !
 
+@@||account.microsoft.com^important
 @@||app.cincinnatiarts.org^$important
 @@||cdn.cookielaw.org^$important ! nintendo e-shop
 @@||dynupdate.no-ip.com^$important
