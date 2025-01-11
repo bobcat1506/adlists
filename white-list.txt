@@ -2,8 +2,12 @@
 ! Title: bobcat1506 DNS filter
 !
 
+@@||app.cincinnatiarts.org^$important
+@@||cdn.cookielaw.org^$important ! nintendo e-shop
 @@||dynupdate.no-ip.com^$important
-!@@||thumper1748.servebeer.com^$important
+@@||thumper1748.servebeer.com^$important
+@@||links.h6.hilton.com^$important
+@@||locations.tirediscounters.com^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
 @@||wireguard.com^important
