@@ -5,6 +5,9 @@
 ! Roku Channel
 ! ||vod.delivery.roku.com^
 
+! Google wifi device history stats
+! ||wirelessdevicestats.googleapis.com^$important
+
 ! DoH
 ! ||akadns.net^ blocking this breaks a ton of stuff
 ! ||apple-dns.net^
@@ -31,4 +34,3 @@
 ||us-odc.samsungapps.com
 ||userpresence.xboxlive.com^$important
 ||vtwenty.com^$important
-||wirelessdevicestats.googleapis.com^$important
