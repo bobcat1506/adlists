@@ -5,6 +5,7 @@
 @@||account.microsoft.com^important
 @@||app.cincinnatiarts.org^$important
 @@||cdn.cookielaw.org^$important ! nintendo e-shop
+@@||data.email.gmfinancial.com^$important
 @@||dynupdate.no-ip.com^$important
 @@||thumper1748.servebeer.com^$important
 @@||links.h6.hilton.com^$important
@@ -12,6 +13,7 @@
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
 @@||wireguard.com^important
+@@||wirelessdevicestats.googleapis.com^$important
 
 
 ! need white listed because they have akadns in the CNAME
