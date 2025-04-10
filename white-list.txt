@@ -19,7 +19,7 @@
 @@||wirelessdevicestats.googleapis.com^$important
 
 ! hulu/espn integration 
-@@||unagi-na.amazon.com^$important
+! @@||unagi-na.amazon.com^$important
 
 @@||thumper1748.servebeer.com^$important
 
