@@ -15,6 +15,7 @@
 @@||login.microsoftonline.com^$important
 @@||www.oh.columbia.care^$important
 @@||pf.intuit.com^$important
+@@||urb.shop^$important
 @@||wireguard.com^important
 @@||wirelessdevicestats.googleapis.com^$important
 
