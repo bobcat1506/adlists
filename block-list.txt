@@ -28,9 +28,11 @@
 ||firebaselogging.googleapis.com^$important
 ||firebaselogging-pa.googleapis.com^$important
 ||imrworldwide.com
+||samsungcloudsolution.com^$important
 ||sentry.io
 ||solitaireevents.microsoftcasualgames.com^$important
 ||metcon.hulu.com^$important
+||time.samsungcloudsolution.com^$important
 ||us-odc.samsungapps.com
 ||userpresence.xboxlive.com^$important
 ||vtwenty.com^$important

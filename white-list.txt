@@ -4,6 +4,7 @@
 
 @@||account.live.com^$important
 @@||account.microsoft.com^important
+@@||amnezia.org^$important
 @@||app.cincinnatiarts.org^$important
 @@||cdn.cookielaw.org^$important ! nintendo e-shop
 @@||data.email.gmfinancial.com^$important
@@ -14,7 +15,10 @@
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
 @@||www.oh.columbia.care^$important
+@@||www.ohlq.com^$important
 @@||pf.intuit.com^$important
+@@||schoolmessenger.com^$important
+@@||track.spe.schoolmessenger.com^$important
 @@||urb.shop^$important
 @@||wireguard.com^important
 @@||wirelessdevicestats.googleapis.com^$important
