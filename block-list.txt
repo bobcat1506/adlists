@@ -28,11 +28,15 @@
 ||firebaselogging.googleapis.com^$important
 ||firebaselogging-pa.googleapis.com^$important
 ||imrworldwide.com
+
+||us-odc.samsungapps.com^$important
 ||samsungcloudsolution.com^$important
+||cdn.samsungcloudsolution.com^$important
+||gpm.samsungqbe.com^$important
+
 ||sentry.io
 ||solitaireevents.microsoftcasualgames.com^$important
 ||metcon.hulu.com^$important
 ||time.samsungcloudsolution.com^$important
-||us-odc.samsungapps.com
 ||userpresence.xboxlive.com^$important
 ||vtwenty.com^$important
