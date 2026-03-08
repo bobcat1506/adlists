@@ -2,6 +2,14 @@
 ! Title: bobcat1506 DNS filter
 !
 
+! these are necessary for Netflix to work 
+! this is more than just logs it is a heartbeat 
+@@||logs.netflix.com
+! if that doesn't fix it try unblocking the following 
+! @@||mask.icloud.com 
+! @@||mask-h2.icloud.com 
+! @@||scribe.logs.com
+
 @@||account.live.com^$important
 @@||account.microsoft.com^important
 @@||amnezia.org^$important
